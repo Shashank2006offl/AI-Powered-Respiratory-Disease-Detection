@@ -398,8 +398,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [[@Shashank2006offl](https://github.com/Shashank2006offl)]
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
 ---
 
 ## 🙏 Acknowledgments
